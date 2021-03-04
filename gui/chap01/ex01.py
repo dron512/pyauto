@@ -3,7 +3,7 @@ from tkinter import ttk
 
 win = tk.Tk()
 
-win.title("음")
+win.title("타이틀")
 
 label = ttk.Label(win, text="A label")
 label.grid(column=0,row=0)
